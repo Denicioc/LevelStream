@@ -2,8 +2,7 @@
 
 Developed with Unreal Engine 4
 
-Entrega: Exercício Módulo 31
+Entrega: Exercício Módulo 32
 
--Uso de curves na câmera inicial;
--Rascunhos usando BlendSpaces;
--[EXTRA]Novas implementações no sistema de save/load;
+-Uso de postprocess material para criar efeito de celshading e outline;
+-Efeito aplicado em efeito de nuvem venenosa e demonstrada com spotlight; 
